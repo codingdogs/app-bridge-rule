@@ -26,4 +26,5 @@ wjkjNative={
 |(NAME)Im|int|客服按钮|
 |(NAME)GoTop|int|返回顶部|
 |(NAME)Download|int|APP下载|
+|(NAME)BottomFloat|int|底部悬浮条|
 ## 
